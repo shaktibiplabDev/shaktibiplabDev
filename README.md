@@ -1,16 +1,23 @@
-## Hi there 👋
+```js
+import Profile from "ShaktiBiplabDev"
 
-<!--
-**shaktibiplabDev/shaktibiplabDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class Bio extends Profile {
+  name    = "ShaktiBiplab";
+  email   = "shaktibiplab0987654321@gmail.com";
+  website = "https://shaktibiplab.com";
+}
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Skills extends Profile {
+  languages        = ["JavaScript", "TypeScript", "Python", "C++"];
+  frontend         = ["React", "Gatsby", "Next.js"];
+  backend          = ["Node", "Express"];
+  desktop          = ["Electron"];
+  databases        = ["Firebase", "MongoDB"];
+  devOps           = ["Git", "GitHub Actions"];
+  toolchains       = ["npm", "Yarn", "Chocolatey"];
+  hosting          = ["Netlify", "Firebase", "Heroku"];
+  operatingSystems = ["macOS", "GNU/Linux", "Windows"];
+  iot              = ["Raspberry Pi", "Arduino"];
+  editors          = ["Visual Studio Code"];
+}
+```
