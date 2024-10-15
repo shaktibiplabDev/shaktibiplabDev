@@ -2,13 +2,13 @@
 import Profile from "ShaktiBiplabDev"
 
 class Bio extends Profile {
-  name    = "ShaktiBiplab";
+  name    = "Shakti Biplab";
   email   = "shaktibiplab0987654321@gmail.com";
-  website = "https://shaktibiplab.com";
+  website = "https://shaktibiplab.aeroverse.top";
 }
 
 class Skills extends Profile {
-  languages        = ["JavaScript", "TypeScript", "Python", "C++"];
+  languages        = ["JavaScript", "Python", "C++", "C", "C#"];
   frontend         = ["React", "Gatsby", "Next.js"];
   backend          = ["Node", "Express"];
   desktop          = ["Electron"];
