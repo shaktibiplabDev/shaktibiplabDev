@@ -3,16 +3,16 @@ import Profile from "ShaktiBiplabDev"
 
 class Bio extends Profile {
   name    = "Shakti Biplab";
-  email   = "shaktibiplab0987654321@gmail.com";
-  website = "https://shaktibiplab.aeroverse.top";
+  email   = "shaktibiplab@gmail.com";
+  website = "https://versaero.top";
 }
 
 class Skills extends Profile {
-  languages        = ["JavaScript", "Python", "C++", "C", "C#"];
-  frontend         = ["React", "Gatsby", "Next.js"];
-  backend          = ["Node", "Express"];
+  languages        = ["JavaScript", "Python", "C++", "C", "C#", "php", "Java"];
+  frontend         = ["React", "Gatsby", "Next.js", "Laravel"];
+  backend          = ["Node", "Express", "Laravel"];
   desktop          = ["Electron"];
-  databases        = ["Firebase", "MongoDB"];
+  databases        = ["Firebase", "MongoDB", "MySql];
   devOps           = ["Git", "GitHub Actions"];
   toolchains       = ["npm", "Yarn", "Chocolatey"];
   hosting          = ["Netlify", "Firebase", "Heroku"];
