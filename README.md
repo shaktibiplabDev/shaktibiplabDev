@@ -12,7 +12,7 @@ class Skills extends Profile {
   frontend         = ["React", "Gatsby", "Next.js", "Laravel"];
   backend          = ["Node", "Express", "Laravel"];
   desktop          = ["Electron"];
-  databases        = ["Firebase", "MongoDB", "MySql];
+  databases        = ["Firebase", "MongoDB", "MySql"];
   devOps           = ["Git", "GitHub Actions"];
   toolchains       = ["npm", "Yarn", "Chocolatey"];
   hosting          = ["Netlify", "Firebase", "Heroku"];
