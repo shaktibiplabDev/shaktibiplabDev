@@ -3,7 +3,7 @@ import Profile from "ShaktiBiplabDev"
 
 class Bio extends Profile {
   name    = "Shakti Biplab";
-  email   = "shaktibiplab@gmail.com";
+  email   = "shaktibiplab@versaero.top";
   website = "https://versaero.top";
 }
 
